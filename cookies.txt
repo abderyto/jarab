@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.marketing-rhino.com	TRUE	/	FALSE	1999999999	PHPSESSID	2f4abae27cc4a0441565bee0c7acc6e8
+www.marketing-rhino.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.marketing-rhino.com	TRUE	/	FALSE	1999999999	edd_items_in_cart	1
+
